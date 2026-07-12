@@ -46,8 +46,10 @@ Foram selecionadas 5 fontes abertas oficiais para alimentar o NotebookLM e funda
     > "Para convencer o proprietário sem reduzir o preço, o foco deve ser a Margem de Contribuição. Conforme as diretrizes de finanças gerenciais, este indicador representa o valor que sobra da venda para pagar os custos fixos. Bebidas alcoólicas tradicionais possuem alta concorrência e margem espremida de cerca de 15%. Já as bebidas não alcoólicas de nicho ou funcionais entregam margens de até 35%. Como as padarias costumam registrar um pico de clientes no horário do almoço focado em alimentação e consumo diurno, ao introduzir a linha não alcoólica nessa janela, o comerciante gera um ganho financeiro por impulso, sem precisar investir in novas geladeiras ou aumentar seu Capital de Giro, pois ele utilizará a estrutura física ociosa que já possui, [2]."
 
    **Referências Ancoradas:**
-    *   `[1]` SEBRAE - Guia Prático de Margem de Contribuição, pág. 4.
-    *   `[2]` ABIP - Indicadores de Mercado: Performance da Panificação e Confeitaria (2025-2026), Seção de Fluxo Diurno.
+   
+   `[1]` SEBRAE - Guia Prático de Margem de Contribuição, pág. 4.
+    
+   `[2]` ABIP - Indicadores de Mercado: Performance da Panificação e Confeitaria (2025-2026), Seção de Fluxo Diurno.
 
    **Dificuldade Encontrada (Cicatriz):** Em um primeiro momento, a IA tentou criar valores exatos em Reais (R$) simulando notas fiscais que não existiam nas fontes (alucinação de dados).
 
@@ -64,9 +66,11 @@ Foram selecionadas 5 fontes abertas oficiais para alimentar o NotebookLM e funda
 
    **Referências Ancoradas:**
    
-    *   `[3]` SciELO/RAE - Determinantes do Desempenho Empresarial e das Vendas Cruzadas no Varejo (2013), parágrafo 5.
-    *   `[4]` ILOS/Valor Setorial - Revista Logística 2025, item 2.2.
-    *   `[5]` Universidade Nova de Lisboa - Next Best Action: A Data-Driven Marketing Approach (2019), pág. 12.
+  `[3]` SciELO/RAE - Determinantes do Desempenho Empresarial e das Vendas Cruzadas no Varejo (2013), parágrafo 5.
+  
+  `[4]` ILOS/Valor Setorial - Revista Logística 2025, item 2.2.
+   
+   `[5]` Universidade Nova de Lisboa - Next Best Action: A Data-Driven Marketing Approach (2019), pág. 12.
 
    **Dificuldade Encontrada (Cicatriz):** O NotebookLM gerou uma resposta focada apenas na empresa, esquecendo de traduzir o benefício para o cliente (padaria).
 
@@ -106,7 +110,7 @@ Foram selecionadas 5 fontes abertas oficiais para alimentar o NotebookLM e funda
    
 🎨 *Nota: Uma versão conceitual beta deste infográfico gráfico/visual foi mapeada e encontra-se acessível para consulta no desenvolvimento do projeto.*
  
-*Resultado disponível no repositório:* [`Finanças_Estratégicas_para_Padarias_B2B.png`](./Finanças_Estratégicas_para_Padarias_B2B.png)
+*Resultado disponível no repositório:* [`infografico-financas-estrategicas-padarias-b2b.png`](./infografico-financas-estrategicas-padarias-b2b.png)
 
    **Para direcionamento tático (Guia Conceitual de Marketing — Relatório de Campo):** 
     `"Explicar o conceito de Next Best Action (NBA) e como ele pode ser transformado em ações práticas de cross-selling no balcão de uma padaria para atrair e fidelizar consumidores."`
